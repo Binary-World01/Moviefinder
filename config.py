@@ -1,0 +1,4 @@
+import os
+
+TMDB_API_TOKEN = os.environ.get("27351b2834af91c84fc126cfe33e7bde", "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyNzM1MWIyODM0YWY5MWM4NGZjMTI2Y2ZlMzNlN2JkZSIsIm5iZiI6MTc1NzM0MDk1OS4yMzcsInN1YiI6IjY4YmVlNTFmYTA0YzIyZmI5Nzk0N2I5NSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.vbdSEq-a7K52e_San3Z-PTbCtLyzX_ikzdwUwoT3myc")
+TMDB_API_BASE_URL = "https://api.themoviedb.org/3"
